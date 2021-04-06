@@ -1,6 +1,5 @@
-# This image contains a baseline model for eye fundus disease detection prediction and detection on color fundus eye images
+# This image contains a baseline model for ML Models deployment
 # Author: Arkangel AI
-# Developer: Daniel Lopez
 
 # set base image (host OS)
 FROM python:3.8
