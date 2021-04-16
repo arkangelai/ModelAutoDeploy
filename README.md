@@ -24,4 +24,4 @@ After that, go to Cloud Run and create a new service (remember the minimum amoun
 
 ## License
 
-This is a private project, and belongs to Arkangel AI. Prohibited its used without the authors permission.
+<a href="https://github.com/arkangelai/ModelAutoDeploy/blob/master/LICENSE">Apache License 2.0<a>
